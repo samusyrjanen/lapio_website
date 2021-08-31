@@ -1,1 +1,12 @@
-p { background-color: red; }
+body   {
+    color: darkred;
+}
+ul   {
+    color: rgb(255, 116, 139);
+}
+.otsikko {
+    color: blue;
+}
+#jatkuu {
+    color: red;
+}
