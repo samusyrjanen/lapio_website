@@ -2,25 +2,55 @@
     width: 250px;
     height: 170px;
     background-color: red;
-    position: relative;
+    position: absolute;
     margin: 10px;
-    top
+    top: 0vmin;
+    border-style: solid;
+    border-width: 15px;
+    border-color: rgb(4, 85, 4);
+    text-align: center;
+    line-height: 170px;
+}
+.one p  {
+    text-transform: uppercase;
+    margin: 0;
+    color: blue;
 }
 .two  {
     width: 250px;
     height: 170px;
     background-color: yellow;
-    position: relative;
+    position: absolute;
     margin: 10px;
-    left: 300px;
-    bottom: 185px;
+    left: 305px;
+    top: 0vmin;
+    border-style: solid;
+    border-width: 15px;
+    border-color: red;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 170px;
+}
+.two p  {
+    margin: 0;
+    color: blue;
 }
 .three  {
     width: 250px;
     height: 170px;
     background-color: green;
-    position: relative;
+    position: absolute;
     margin: 10px;
     left: 600px;
-    bottom: 370px;
+    top: 0vmin;
+    border-style: solid;
+    border-width: 15px;
+    border-color: yellow;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 170px;
+}
+.three p  {
+    margin: 0;
+    color: blue;
 }
