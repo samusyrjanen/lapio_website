@@ -13,7 +13,7 @@
 }
 .one p  {
     text-transform: uppercase;
-    margin: 0;
+    margin: auto;
     color: blue;
 }
 .two  {
@@ -32,7 +32,7 @@
     line-height: 170px;
 }
 .two p  {
-    margin: 0;
+    margin: auto;
     color: blue;
 }
 .three  {
